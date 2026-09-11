@@ -1,7 +1,3 @@
 <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/d30ceb87-9cd2-4efb-bea1-c79f113cd60c" />
 
-Helps non-technical people turn plain-language ideas into polished, working apps and
-websites. Claude asks simple questions when a request is unclear, makes sensible product
-and technical decisions, builds complete user flows with validation, loading and error
-states, accessibility, responsive design, and security, and explains important choices 
-in everyday language so users learn as they build.
+This skill helps non-technical users create high-quality apps and websites from simple, everyday instructions. It understands the goal behind a request, asks a small number of clear questions when important details are missing, and makes sensible decisions about the design and behind-the-scenes behavior without requiring the user to understand programming. It builds complete pages and features—not just visual mockups—including navigation, forms, data handling, validation, loading states, empty states, error messages, user permissions, security, accessibility, mobile responsiveness, and basic testing. Claude communicates in plain language, explains important decisions as the project develops, separates choices the user needs to make from details it will handle, and gradually teaches useful concepts through practical examples. The result should be a polished, usable app or website that works for real users and is easy to improve over time.
